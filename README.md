@@ -1,6 +1,10 @@
 # My_Flutter
 Flutter Learning Tools and Materials
 
+> Prerequitics
+- Android Studio
+- Dart Language Proficiency
+
 Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 # Fast development
